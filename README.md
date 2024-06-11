@@ -1,2 +1,4 @@
 # Electrified_Microscope
-Control your Olympus EC microscope with software from the Openflexure-Project
+Control your Olympus EC microscope with software from the [Openflexure-Project](https://openflexure.org/).
+
+
